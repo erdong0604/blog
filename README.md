@@ -1,11 +1,11 @@
 # Erdong的博客
 
-### 专栏  
+## 专栏  
 
 - [掘金主页](https://juejin.im/user/57c5258d5bbb5000634b124a)
 -         - -             
 
-### 文章
+## 文章
 
 1. [我们一起学习Vue中的 slot 吧。](https://juejin.im/post/5d329701e51d45109b01b25b)  
 2. [Vue.js中的methods，computed，watch。](https://juejin.im/post/5d30367af265da1b6f43ad78)  
