@@ -15,7 +15,7 @@
 
 ## 关于 JavaScript 基础
 
-1. JavaScript之数据类型
+1. [JavaScript之数据类型&数据类型检测。](https://github.com/erdong0604/blog/issues/3)  
 1. JavaScript之执行上下文
 1. JavaScript之变量对象
 1. JavaScript之活动对象原型
