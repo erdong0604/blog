@@ -11,6 +11,7 @@
 3. [我们一起写一个Vue的Loading插件吧。](https://juejin.im/post/5d15ba136fb9a07ef161961c)  
 4. [你要的Vue面试题都在这里。](https://juejin.im/post/5d13436f6fb9a07eca698ba0)  
 5. [vue兄弟组件之间通信--eventBus](https://juejin.im/post/5d035f6b6fb9a07f0052d7de)  
+6. [函数防抖与节流](https://juejin.im/post/5ed265f2e51d45787c2d9a3c)
 
 
 ## 关于 JavaScript 基础
