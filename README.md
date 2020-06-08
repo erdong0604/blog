@@ -2,8 +2,8 @@
 
 ## 专栏  
 
-- [掘金主页](https://juejin.im/user/57c5258d5bbb5000634b124a)
-
+- [掘金](https://juejin.im/user/57c5258d5bbb5000634b124a)
+- [思否segmentfault](https://segmentfault.com/u/huashengudaodejing_5d1235c96251e)
 ## 关于VueJs
 
 1. [我们一起学习Vue中的 slot 吧。](https://juejin.im/post/5d329701e51d45109b01b25b)  
