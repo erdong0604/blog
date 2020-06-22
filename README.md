@@ -32,7 +32,11 @@
 ## 关于 JavaScript 进阶
 
 1. [JavaScript之new及实现](https://github.com/erdong0604/my-exercises/tree/master/%E5%9F%BA%E7%A1%80/new%E6%93%8D%E4%BD%9C%E7%AC%A6%E5%8F%8A%E5%AE%9E%E7%8E%B0)
-2. [函数防抖与节流](https://juejin.im/post/5ed265f2e51d45787c2d9a3c)
+2. [JavaScript之call,apply,bind区别及实现](https://github.com/erdong0604/my-exercises/tree/master/JS%E8%BF%9B%E9%98%B6/call%2Capply%2Cbind%E5%8C%BA%E5%88%AB%E5%8F%8A%E5%AE%9E%E7%8E%B0)
+3. [JavaScript之函数防抖与节流](https://github.com/erdong0604/my-exercises/tree/master/JS%E8%BF%9B%E9%98%B6/%E4%BB%8E%E5%AE%9E%E6%88%98%E8%AE%B2%E8%A7%A3%E9%98%B2%E6%8A%96%E4%B8%8E%E8%8A%82%E6%B5%81)
+4. [JavaScript之浅拷贝与深拷贝实现](https://github.com/erdong0604/my-exercises/blob/master/JS%E8%BF%9B%E9%98%B6/%E6%B5%85%E6%8B%B7%E8%B4%9D%E4%B8%8E%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%AE%9E%E7%8E%B0)
+4. [JavaScript之图片懒加载](https://github.com/erdong0604/my-exercises/tree/master/JS%E8%BF%9B%E9%98%B6/%E5%9B%BE%E7%89%87%E6%87%92%E5%8A%A0%E8%BD%BD)
+
 ## 关于 JavaScript 探索
 
 1. [['1', '2', '3'].map(parseInt) what & why ?](https://github.com/erdong0604/blog/issues/2)  
@@ -41,6 +45,7 @@
 ## 日常工作中的轮子
 
 ## 关于 前端性能优化
+
 
 ## 关于 面试题
 
